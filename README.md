@@ -17,16 +17,20 @@ This application provides a highly polished, buttery-smooth UX featuring respons
   <table border="0">
     <tr>
       <td align="center" valign="top">
-        <p><b>📱 Splash & Authentication</b></p>
-        <img src="assets/screenshots/screenshot1.jpg" width="245" alt="Splash Screen" style="border-radius: 14px; border: 2px solid #E2E8F0;" />
+        <p><b>✨ Onboarding & Welcome</b></p>
+        <img src="assets/screenshots/1_onboarding.jpg" width="185" alt="Onboarding Screen" style="border-radius: 12px; border: 2px solid #E2E8F0;" />
       </td>
       <td align="center" valign="top">
-        <p><b>🍔 Browse & Order System</b></p>
-        <img src="assets/screenshots/screenshot2.jpg" width="245" alt="Dashboard Screen" style="border-radius: 14px; border: 2px solid #E2E8F0;" />
+        <p><b>🔒 Authentication System</b></p>
+        <img src="assets/screenshots/2_login.jpg" width="185" alt="Login Screen" style="border-radius: 12px; border: 2px solid #E2E8F0;" />
       </td>
       <td align="center" valign="top">
-        <p><b>👤 Profile & Favorites</b></p>
-        <img src="assets/screenshots/screenshot3.jpg" width="245" alt="Profile Screen" style="border-radius: 14px; border: 2px solid #E2E8F0;" />
+        <p><b>🍔 Live Restaurant Feed</b></p>
+        <img src="assets/screenshots/3_dashboard.jpg" width="185" alt="Dashboard Screen" style="border-radius: 12px; border: 2px solid #E2E8F0;" />
+      </td>
+      <td align="center" valign="top">
+        <p><b>🚀 App Splash Screen</b></p>
+        <img src="assets/screenshots/4_splash.jpg" width="185" alt="Splash Screen" style="border-radius: 12px; border: 2px solid #E2E8F0;" />
       </td>
     </tr>
   </table>
