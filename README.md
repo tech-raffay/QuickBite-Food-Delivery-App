@@ -11,18 +11,22 @@ This application provides a highly polished, buttery-smooth UX featuring respons
 
 ---
 
-## 📸 App Preview
+## 📸 App Screenshots
 
 <div align="center">
   <table border="0">
     <tr>
-      <td align="center">
-        <p><b>🛒 Premium Cart & Order System</b></p>
-        <img src="assets/screenshots/app_preview.png" width="310" alt="App Preview" style="border-radius: 18px; border: 2.5px solid #E2E8F0;" />
+      <td align="center" valign="top">
+        <p><b>📱 Splash & Authentication</b></p>
+        <img src="assets/screenshots/screenshot1.jpg" width="245" alt="Splash Screen" style="border-radius: 14px; border: 2px solid #E2E8F0;" />
       </td>
-      <td align="center">
-        <p><b>👤 Custom Profile Face Fitting</b></p>
-        <img src="assets/screenshots/pfp_screenshot.png" width="310" alt="Profile Screenshot" style="border-radius: 18px; border: 2.5px solid #E2E8F0;" />
+      <td align="center" valign="top">
+        <p><b>🍔 Browse & Order System</b></p>
+        <img src="assets/screenshots/screenshot2.jpg" width="245" alt="Dashboard Screen" style="border-radius: 14px; border: 2px solid #E2E8F0;" />
+      </td>
+      <td align="center" valign="top">
+        <p><b>👤 Profile & Favorites</b></p>
+        <img src="assets/screenshots/screenshot3.jpg" width="245" alt="Profile Screen" style="border-radius: 14px; border: 2px solid #E2E8F0;" />
       </td>
     </tr>
   </table>
